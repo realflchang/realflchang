@@ -10,6 +10,8 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/realflchang/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/realflchang/azure-network-protocols)
+- <b>Excel Visual Basic Macros</b>
+  - [Reformat a data report in Excel from an unsorted, unformatted data report](https://github.com/realflchang/reformat-data-report)
 
 <h2>🤳Connect with me:</h2>
 
