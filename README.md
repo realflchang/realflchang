@@ -10,6 +10,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/realflchang/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/realflchang/azure-network-protocols)
+  - [Configuring On-premises Group Policy Management and File Server Resource Manager](https://github.com/realflchang/group-policy-and-file-server-resource-management)
 - <b>Excel Visual Basic Macros</b>
   - [Reformat a data report in Excel from an unsorted, unformatted data report](https://github.com/realflchang/reformat-data-report)
 
