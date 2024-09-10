@@ -13,6 +13,7 @@
   - [Configuring On-premises Group Policy Management and File Server Resource Manager](https://github.com/realflchang/group-policy-and-file-server-resource-management)
 - <b>Excel Visual Basic Macros</b>
   - [Reformat a data report in Excel from an unsorted, unformatted data report](https://github.com/realflchang/reformat-data-report)
+  - [Summarize individual data reports in Excel into a summary worksheet](https://github.com/realflchang/summarize-data-reports)
 
 <h2>🤳Connect with me:</h2>
 
